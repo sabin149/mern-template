@@ -1,0 +1,18 @@
+20221009	20:26:09	34a23197-f450-4720-ab80-eb3a926100cc	MongoServerError: E11000 duplicate key error collection: template.users index: fullname_1 dup key: { fullname: "user01" }	POST	/auth/register	undefined
+20221009	20:26:33	c4ca4a96-16a2-4f9e-b631-7739ef976ab7	MongoServerError: E11000 duplicate key error collection: template.users index: fullname_1 dup key: { fullname: "user01" }	POST	/auth/register	undefined
+20221009	20:26:39	b761c2d1-7ba5-4614-ad87-bf84d8dca1f0	MongoServerError: E11000 duplicate key error collection: template.users index: fullname_1 dup key: { fullname: "user01" }	POST	/auth/register	undefined
+20221009	20:26:55	f6bb272a-4581-4196-9811-5dd755ab9375	MongoServerError: E11000 duplicate key error collection: template.users index: fullname_1 dup key: { fullname: "user01" }	POST	/auth/register	undefined
+20221009	20:30:59	2f6bb2a4-c71f-402c-931c-3d2166e894ee	MongoServerError: E11000 duplicate key error collection: template.users index: fullname_1 dup key: { fullname: "user01" }	POST	/auth/register	undefined
+20221009	20:32:59	11fe0323-4b81-4dd1-9962-c59f809fe25f	MongoServerError: E11000 duplicate key error collection: template.users index: fullname_1 dup key: { fullname: "user01" }	POST	/auth/register	undefined
+20221009	20:33:17	a796dc67-bf4f-40e4-9ba0-449567258094	MongoServerError: E11000 duplicate key error collection: template.users index: fullname_1 dup key: { fullname: "user01" }	POST	/auth/register	undefined
+20221009	20:36:09	0cdfd8f5-74fa-4fd6-8957-04d197875d16	MongoServerError: E11000 duplicate key error collection: template.users index: fullname_1 dup key: { fullname: "user01" }	POST	/auth/register	undefined
+20221009	20:55:56	5045a2ca-a8c5-4f81-aa8a-d2cf73efd7dd	MongoServerError: E11000 duplicate key error collection: template.users index: fullname_1 dup key: { fullname: "user01" }	POST	/auth/register	undefined
+20221009	21:20:04	84fa51fe-4b8b-4928-8ad3-f8e46e346719	ReferenceError: newUser is not defined	POST	/auth/login	undefined
+20221009	21:21:00	eacae448-e92e-4fa9-9666-e9c2a36d1be0	ReferenceError: refreshToken is not defined	POST	/auth/login	undefined
+20221009	21:28:39	028bff6d-8a52-4796-8905-31b3bb325743	MongoServerError: E11000 duplicate key error collection: template.users index: fullname_1 dup key: { fullname: "user01" }	POST	/auth/register	undefined
+20221009	23:19:24	d31755ff-9a4c-4240-92d5-402d4950a3c5	MongoServerError: E11000 duplicate key error collection: template.users index: fullname_1 dup key: { fullname: "user02" }	POST	/auth/register	undefined
+20221009	23:33:28	07236e50-ab84-4d76-80ed-5793cb346694	TypeError: Cannot read properties of undefined (reading 'password')	POST	/auth/change-password	undefined
+20221009	23:34:31	90053c72-78e8-428f-87e4-84f4bc3fed15	TypeError: Cannot read properties of undefined (reading 'password')	POST	/auth/change-password	undefined
+20221010	11:00:10	ae290045-d549-444a-bb20-90c636ca15f7	TypeError: Cannot read properties of undefined (reading 'username')	POST	/auth/change-password	undefined
+20221010	22:14:18	041ad429-2e11-4e7e-954b-248612b4ee05	ReferenceError: cookies is not defined	POST	/auth/logout	undefined
+20221010	22:52:31	a5b5d302-db45-4f67-9e0c-f73c50619b34	JsonWebTokenError: invalid signature	GET	/auth/verify-user/6342ef3f80b696b9c68f8bca/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzNDJlZjNmODBiNjk2YjljNjhmOGJjYSIsImlhdCI6MTY2NTQyMTU5NiwiZXhwIjoxNjY1NDIyNDk2fQ.JmtoM-pF_dwyb0AMXW78K2S6ULCtVO9NTb1rsXGQvy8	undefined
